@@ -2,7 +2,7 @@
 
 
 # Seeking Exciting Opportunities in EdTech Development 👯 
-Hello there! 👋 I'm Robert, a passionate full-stack developer with a keen interest in the field of Education Technology (EdTech). I'm currently on the lookout for opportunities to contribute my skills and expertise to innovative EdTech projects.
+Hiii! 👋 I'm Robert, a passionate full-stack developer with a keen interest in the field of Education Technology (EdTech). I'm currently on the lookout for opportunities to contribute my skills and expertise to innovative EdTech projects.
 
 ## Why EdTech?
 Education has always been a driving force in my life, and I believe in the transformative power of technology to enhance learning experiences. The opportunity to be part of a team that is making a positive impact in the education sector is incredibly motivating for me.
